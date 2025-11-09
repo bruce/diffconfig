@@ -32,7 +32,8 @@ defmodule Diffconfig.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:diffident, "~> 0.1"}
+      {:diffident, "~> 0.1"},
+      {:ex_doc, ">= 0.0.0", only: :dev, runtime: false}
     ]
   end
 end
