@@ -1,6 +1,6 @@
 # Diffconfig
 
-Provides mix tasks to dump and comparing application configurations, with
+Provides mix tasks to dump and compare application configurations, with
 support for setting environment variables.
 
 ## Examples
